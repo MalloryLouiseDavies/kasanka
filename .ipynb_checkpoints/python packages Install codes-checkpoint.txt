@@ -1,0 +1,22 @@
+# Torch
+pip install install_torch
+install-torch
+
+#cv2
+pip install opencv-python
+
+#rasterio
+pip install rasterio
+
+
+# To install packages in Jupyter notebook, use the following syntax:
+# Use ! or % to run shell commands
+
+# Torch
+!pip install torch
+
+# OpenCV
+!pip install opencv-python
+
+# Rasterio
+!pip install rasterio
